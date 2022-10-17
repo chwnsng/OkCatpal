@@ -1,1 +1,1 @@
-To see the mock up website, please download the zip, extract, and select the index file.
+To see the mock up website, clone the files, extract, and open the index file.
